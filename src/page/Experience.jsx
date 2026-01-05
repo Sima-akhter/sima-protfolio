@@ -1,3 +1,4 @@
+
 import React from "react";
 import { motion } from "framer-motion";
 import { Briefcase, Calendar, ChevronRight } from "lucide-react";
@@ -5,28 +6,28 @@ import { Briefcase, Calendar, ChevronRight } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      role: "Senior Frontend Developer",
+      role: "Frontend Developer",
       company: "Tech Solutions Inc.",
-      duration: "2023 - Present",
+      duration: "2026 - Present",
       description:
-        "Leading the frontend team to build scalable SaaS products using Next.js and TypeScript. Improved site performance by 40%.",
-      skills: ["Next.js", "TypeScript", "Team Leadership"],
+        "Leading frontend development for modern web applications using React, Next.js. Optimized performance and improved user experience across multiple projects.",
+      skills: ["React", "Next.js", "Performance Optimization"],
     },
     {
-      role: "Web Developer",
+      role: "Frontend Developer",
       company: "Creative Digital Agency",
-      duration: "2021 - 2023",
+      duration: "2025 - 2026",
       description:
-        "Developed 20+ responsive websites for international clients. Specialized in React.js and Framer Motion for high-end animations.",
-      skills: ["React", "Tailwind CSS", "Figma"],
+        "Built responsive, interactive websites for clients worldwide using React and Tailwind CSS. Implemented animations and dynamic interfaces with Framer Motion.",
+      skills: ["React", "Tailwind CSS", "Framer Motion", "UI/UX Design"],
     },
     {
-      role: "Junior Developer (Intern)",
+      role: "Junior Frontend Developer (Intern)",
       company: "Softify BD",
-      duration: "2020 - 2021",
+      duration: "2025",
       description:
-        "Assisted in building UI components and fixing bugs. Learned the fundamentals of agile development and version control.",
-      skills: ["JavaScript", "HTML/CSS", "Git"],
+        "Started my journey as a Junior Frontend Developer, learning to create UI components, debug issues, and understand modern web development workflows.",
+      skills: ["JavaScript", "HTML/CSS", "Git", "Responsive Design"],
     },
   ];
 
@@ -118,3 +119,5 @@ const Experience = () => {
 };
 
 export default Experience;
+
+

@@ -9,30 +9,31 @@ const Projects = () => {
       description:
         "A premium AI-powered dashboard with real-time data visualization and dark mode support. Built for high-scale enterprise use.",
       image:
-        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&auto=format&fit=crop",
-      tags: ["React", "Tailwind", "Chart.js", "Firebase"],
-      liveLink: "#",
-      githubLink: "#",
+        "https://i.ibb.co.com/b5wd5xZ7/krishi.png",
+      tags: ["React", "Tailwind", "Express", "Firebase"],
+      liveLink: "https://keen-zabaione-1adb31.netlify.app/",
+      githubLink: "https://github.com/Sima-akhter/krishiLink-project-client",
     },
     {
       title: "E-Commerce Experience",
       description:
         "A fully functional e-commerce platform with a focus on smooth animations, fast filtering, and a seamless checkout process.",
       image:
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=800&auto=format&fit=crop",
-      tags: ["Next.js", "Redux", "Stripe", "Node.js"],
-      liveLink: "#",
+        "https://i.ibb.co.com/0ysVksCz/game.png",
+      tags: ["React", "Tailwind CSS", "Firebase", "Vercel", "Context API"],
+      liveLink: "https://classy-praline-339ca0.netlify.app/",
       githubLink: "#",
     },
+    
     {
       title: "Crypto Portfolio Tracker",
       description:
         "Real-time cryptocurrency tracking app with live price updates and portfolio management features using public APIs.",
       image:
-        "https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=800&auto=format&fit=crop",
-      tags: ["React", "TypeScript", "Axios", "Framer Motion"],
-      liveLink: "#",
-      githubLink: "#",
+        "https://i.ibb.co.com/RTx716F7/ticket.png",
+      tags: ["React", "Express", "Axios", "Framer Motion"],
+      liveLink: "https://glittering-phoenix-2e06e7.netlify.app/",
+      githubLink: "https://github.com/Sima-akhter/ticket-booking-client",
     },
   ];
 

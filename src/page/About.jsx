@@ -1,3 +1,4 @@
+
 import React from "react";
 import { motion } from "framer-motion";
 import { User, Code, Palette, Cpu } from "lucide-react";
@@ -6,12 +7,12 @@ const About = () => {
   const skills = [
     "React.js",
     "Next.js",
+    "Express.js",
     "Tailwind CSS",
-    "Node.js",
-    "MongoDB",
-    "TypeScript",
+    "JavaScript",
     "Framer Motion",
-    "UI Design",
+    "UI/UX Design",
+    "Responsive Design",
   ];
 
   const stats = [
@@ -59,15 +60,15 @@ const About = () => {
             </div>
 
             <h2 className="text-4xl lg:text-5xl font-bold text-white mb-6 leading-tight">
-              Transforming Visions into <br />
-              <span className="text-purple-500">Digital Reality</span>
+              Crafting Modern <br />
+              <span className="text-purple-500">Frontend Experiences</span>
             </h2>
 
             <p className="text-gray-400 text-lg mb-8 leading-relaxed">
-              I am a dedicated Full-Stack Developer with a strong focus on
-              building high-quality, scalable web applications. My journey in
-              tech started with a passion for solving complex problems and
-              creating seamless user experiences.
+              I'm a passionate Frontend Developer focused on building fast,
+              responsive, and user-friendly web applications. I specialize in
+              React, Next.js, and Tailwind CSS to create clean and modern
+              digital experiences.
             </p>
 
             {/* Stats Grid */}
@@ -101,7 +102,7 @@ const About = () => {
 
             {/* Final CTA Button for About */}
             <button className="flex items-center gap-2 text-white font-semibold group hover:text-purple-400 transition-colors">
-              Read my full story
+              Read My Frontend Journey
               <span className="group-hover:translate-x-1 transition-transform">
                 →
               </span>
@@ -114,3 +115,4 @@ const About = () => {
 };
 
 export default About;
+

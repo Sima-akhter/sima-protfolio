@@ -42,7 +42,7 @@ const Navbar = () => {
             <Code2 className="text-white" size={24} />
           </div>
           <span className="text-xl font-bold text-white tracking-tighter">
-            DEV<span className="text-purple-500 text-2xl">.</span>PORTFOLIO
+            Sima<span className="text-purple-500 text-2xl">.</span>Akter
           </span>
         </motion.div>
 

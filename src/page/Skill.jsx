@@ -20,8 +20,6 @@ const Skills = () => {
         "React.js",
         "Next.js",
         "JavaScript (ES6+)",
-        "TypeScript",
-        "Redux Toolkit",
         "HTML5/CSS3",
       ],
     },
@@ -30,7 +28,6 @@ const Skills = () => {
       icon: <layout className="text-purple-500" size={28} />, // Tailwind icon toggle
       skills: [
         "Tailwind CSS",
-        "Bootstrap",
         "Material UI",
         "Framer Motion",
         "SASS/SCSS",
