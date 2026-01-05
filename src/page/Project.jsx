@@ -5,9 +5,9 @@ import { ExternalLink, Github, Layers } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "AI SaaS Dashboard",
+      title: "KrishiLink",
       description:
-        "A premium AI-powered dashboard with real-time data visualization and dark mode support. Built for high-scale enterprise use.",
+        "KrishiLink is a full-stack web application that connects farmers and buyers, allowing crop management, listing, and buyer interaction. It features real-time search, responsive design, and secure authentication for a seamless farming marketplace experience.",
       image:
         "https://i.ibb.co.com/b5wd5xZ7/krishi.png",
       tags: ["React", "Tailwind", "Express", "Firebase"],
@@ -15,9 +15,9 @@ const Projects = () => {
       githubLink: "https://github.com/Sima-akhter/krishiLink-project-client",
     },
     {
-      title: "E-Commerce Experience",
+      title: "Game Library",
       description:
-        "A fully functional e-commerce platform with a focus on smooth animations, fast filtering, and a seamless checkout process.",
+        "Game Library is a React-based web app that lets users explore popular games with ratings, details, and visuals. It features smooth animations, Firebase authentication, and a responsive, interactive UI for an engaging gaming experience.",
       image:
         "https://i.ibb.co.com/0ysVksCz/game.png",
       tags: ["React", "Tailwind CSS", "Firebase", "Vercel", "Context API"],
@@ -26,9 +26,9 @@ const Projects = () => {
     },
     
     {
-      title: "Crypto Portfolio Tracker",
+      title: "Ticket Booking",
       description:
-        "Real-time cryptocurrency tracking app with live price updates and portfolio management features using public APIs.",
+        "A fully responsive ticket booking platform frontend built with React, featuring secure login, dynamic routing, and real-time data fetching. Designed with modern UI, smooth animations, and production-ready architecture.",
       image:
         "https://i.ibb.co.com/RTx716F7/ticket.png",
       tags: ["React", "Express", "Axios", "Framer Motion"],
