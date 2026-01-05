@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, Code2 } from "lucide-react";
@@ -31,7 +32,8 @@ const Navbar = () => {
           : "py-6 bg-transparent"
       }`}
     >
-      <div className="container mx-auto  flex items-center justify-between">
+      {/* 🔥 SIDE PADDING ADDED HERE */}
+      <div className="container mx-auto px-6 lg:px-20 flex items-center justify-between">
         {/* --- LOGO --- */}
         <motion.div
           initial={{ opacity: 0, x: -20 }}
