@@ -6,7 +6,7 @@ import Footer from "./shared/Footer";
 import Hero from "./page/Hero";
 import Skills from "./page/Skill";
 import Projects from "./page/Project";
-import Experience from "./page/Experience";
+
 
 const App = () => {
   return (
@@ -14,7 +14,6 @@ const App = () => {
       <Navbar />
       <Hero />
       <About />
-      <Experience />
       <Skills />
       <Projects />
       <Contact />
