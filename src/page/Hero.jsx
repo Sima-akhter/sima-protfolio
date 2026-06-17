@@ -98,7 +98,7 @@ const Hero = () => {
             {/* The Image Container */}
             <div className="relative aspect-[4/5] w-[320px] md:w-[400px] bg-[#111] rounded-[2rem] overflow-hidden border border-white/10">
               <img
-                src="https://i.ibb.co.com/RGsHBpTT/shg.png"
+                src="https://i.ibb.co.com/spkWsNJf/Whats-App-Image-2026-06-17-at-4-26-43-PM.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
